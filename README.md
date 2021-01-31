@@ -5,7 +5,7 @@ python: "Python for Data Analysis" (https://github.com/wesm/pydata-book)
 
 R: "R for Data Science"  (https://r4ds.had.co.nz/)
 
-<python>
+[python]
         
 Week 1: Ch.4 NumPy Basics: Arrays and Vectorized Computation, Ch.5 Getting Started with pandas
         
@@ -15,7 +15,7 @@ Week 3: Ch.8 Data Wrangling: Join, Combine, and Reshape, Ch.10 Data Aggregation 
         
 Week 4: Ch.9 Plotting and Visualization
 
-<R>
+[R]
         
 Week 5: ch.3 (data visualisation)
         
