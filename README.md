@@ -17,8 +17,8 @@ Week 4: Ch.9 Plotting and Visualization
 
 [R]
         
-Week 5: ch.3 (data visualisation)
+Week 5: Ch.3 (data visualisation)
         
-Week 6: ch.5 (data transformation)
+Week 6: Ch.5 (data transformation)
         
-Week 7: ch.7 (Exploratory Data Analysis)
+Week 7: Ch.7 (Exploratory Data Analysis)
